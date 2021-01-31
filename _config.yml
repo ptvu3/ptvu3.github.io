@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Phuong Vu"
+title                    : "Phuong Vu's Homepage"
 title_separator          : "-"
 name                     : &name "Phuong Vu"
-description              : #&description "I'm a Biostatistician at Seattle Children's Research Institute"
+description              : &description "Biostatistician at Seattle Children's Research Institute"
 url                      : https://ptvu3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ptvu3/ptvu3.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Phuong Vu"
   avatar           : "avatar.jpg"
-  bio              : "Biostatistician, Seattle Children's Research Institute"
+  bio              : "(she/her/hers)\\Biostatistician, Seattle Children's Research Institute"
   location         : "Seattle, WA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/phuong%20t.vu.1/bibliography/public/"
