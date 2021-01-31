@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Phuong Vu"
 title_separator          : "-"
 name                     : &name "Phuong Vu"
-description              : #&description "personal description"
+description              : &description "I'm a Biostatistician at Seattle Children's Research Institute"
 url                      : https://ptvu3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ptvu3/ptvu3.github.io"
@@ -31,7 +31,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
+  allowedFields          : ['Phuong Vu', 'email', 'ptvu3.github.io', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -83,7 +83,7 @@ author:
   name             : "Phuong Vu (she/her/hers)"
   avatar           : "avatar.jpg"
   bio              : "Biostatistician, Seattle Children's Research Institute"
-  location         : "Seattle, Washington"
+  location         : "Seattle, WA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/collections/mybibliography/"
   googlescholar    : "https://scholar.google.com/citations?user=ffQjzUYAAAAJ&hl=en"
