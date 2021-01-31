@@ -1,11 +1,11 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About Me - Phuong Vu"
+excerpt: "About Me"
 author_profile: true
-#redirect_from: 
-#  - /about/
-#  - /about.html
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 Hello! I'm currently a Biostatistician at the [Cystic Fibrosis Therapeutics Development Network Coordinating Center](https://www.cff.org/Research/Researcher-Resources/Therapeutics-Development-Network/Working-with-the-TDN/Introduction-to-the-Therapeutics-Development-Network/), supported by the [Cystic Fibrosis Foundation](https://www.cff.org/) and housed at the [Seattle Children’s Research Institute](https://www.seattlechildrens.org/research/).
