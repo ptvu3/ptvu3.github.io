@@ -19,7 +19,6 @@ Skills
 ======
 * Technical skills:
   * Proficient in R and Python
-  * Proficient in Microsoft Office suite and $\LaTeX$
   * Familiar with SAS, Linux/Unix, ArcGIS, Git, REDCap and Medidata  
 * Languages:
   * Native in Vietnamese
