@@ -22,6 +22,6 @@ Peer-Reviewed Publications
 
 Non-Refereed Scholarly Publications
 ------
-0. <ins>**Vu PT**</ins>, Szpiro AA, & Simon N (2020). Spatial Matrix Completion for Spatially-Misaligned and Multivariate Air Pollution Data. *arXiv*:2004.05443 \[stat.AP\] [\[arXiv\]](https://arxiv.org/abs/2004.05443)
+0. <ins>**Vu PT**</ins>, Szpiro AA, & Simon N (2020). Spatial Matrix Completion for Spatially-Misaligned and Multivariate Air Pollution Data. ***arXiv***:2004.05443 \[stat.AP\] [\[arXiv\]](https://arxiv.org/abs/2004.05443)
 0. <ins>**Vu PT**</ins> (2019). Dimension Reduction for Spatially-Misaligned and Multi-Pollutant Data with Missing Observations. [\[doctoral dissertation\]](https://digital.lib.washington.edu/researchworks/handle/1773/45120)
 {: reversed="reversed"}  
