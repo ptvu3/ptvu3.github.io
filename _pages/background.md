@@ -1,6 +1,6 @@
 ---
 #layout: archive
-title: "Background"
+title: ""
 permalink: /background/
 author_profile: true
 ---
