@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Phuong Vu (she/her/hers)"
+  name             : "Phuong Vu"
   avatar           : "avatar.jpg"
   bio              : "Biostatistician, Seattle Children's Research Institute"
   location         : "Seattle, WA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/collections/mybibliography/"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/phuong%20t.vu.1/bibliography/public/"
   googlescholar    : "https://scholar.google.com/citations?user=ffQjzUYAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
