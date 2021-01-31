@@ -1,9 +1,11 @@
 ---
 #layout: archive
-title: "" #"Publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+For the most updated list of publications, follow me on either [Google Scholar](https://scholar.google.com/citations?user=ffQjzUYAAAAJ&hl=en), [PubMed](https://www.ncbi.nlm.nih.gov/myncbi/phuong%20t.vu.1/bibliography/public/), or [ORCID](https://orcid.org/0000-0002-0777-0329)
 
 Peer-Reviewed Publications 
 ------
