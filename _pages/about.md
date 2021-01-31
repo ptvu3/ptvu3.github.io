@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm currently a Biostatistician at the [Cystic Fibrosis Therapeutics Development Network Coordinating Center](https://www.cff.org/Research/Researcher-Resources/Therapeutics-Development-Network/Working-with-the-TDN/Introduction-to-the-Therapeutics-Development-Network/), supported by the [Cystic Fibrosis Foundation](https://www.cff.org/) and housed at the [Seattle Children’s Research Institute](https://www.seattlechildrens.org/research/).
+Hello! I'm currently a Biostatistician at the [Cystic Fibrosis Therapeutics Development Network Coordinating Center](https://www.cff.org/Research/Researcher-Resources/Therapeutics-Development-Network/Working-with-the-TDN/Introduction-to-the-Therapeutics-Development-Network/) (TDNCC), supported by the [Cystic Fibrosis Foundation](https://www.cff.org/) and housed at the [Seattle Children’s Research Institute](https://www.seattlechildrens.org/research/). The TDNCC supports clinical trial development, management, and analysis in cystic fibrosis research through collaborations among a variety of disciplines and institutions.
 
 I completed my Ph.D. in Biostatistics at the [University of Washington](https://www.biostat.washington.edu/) (UW), under the guidance of [Dr. Adam Szpiro](https://sites.google.com/uw.edu/adamszpiro/home). My doctoral dissertation was motivated by statistical challenges arising in modeling environmental exposures, particularly in air pollution studies. My research focus on developing statistical methods to effectively handle spatially-misaligned multivariate data with missing observations. 
 
