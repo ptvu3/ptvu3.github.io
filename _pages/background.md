@@ -1,7 +1,7 @@
 ---
 #layout: archive
 title: "Background"
-permalink: /cv/
+permalink: /background/
 author_profile: true
 ---
 
