@@ -10,7 +10,6 @@ author_profile: true
 Education
 ======
 * Ph.D. in Biostatistics, University of Washington, 2019
-* M.S. in Biostatistics, University of Washington, 2017
 * B.A. in Applied Mathematics & Statistics and Economics, Macalester College, 2013
 
 Skills
