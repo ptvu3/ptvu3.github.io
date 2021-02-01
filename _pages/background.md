@@ -9,8 +9,8 @@ author_profile: true
 
 Education
 ======
-* Ph.D. in Biostatistics, University of Washington, 2019
-* B.A. in Applied Mathematics & Statistics and Economics, Macalester College, 2013
+* Ph.D. in Biostatistics, [University of Washington](https://www.biostat.washington.edu/), 2014-2019
+* B.A. in Applied Mathematics & Statistics and Economics, [Macalester College](https://www.macalester.edu/), 2009-2013
 
 Skills
 ======
