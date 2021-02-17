@@ -11,6 +11,7 @@ Education
 ======
 * Ph.D. in Biostatistics, [University of Washington](https://www.biostat.washington.edu/), 2014-2019
   * [Doctoral dissertation](https://digital.lib.washington.edu/researchworks/handle/1773/45120): Dimension Reduction for Spatially-Misaligned and Multi-Pollutant Data with Missing Observations.
+  * Advisor: [Adam Szpiro, Ph.D.](https://sites.google.com/uw.edu/adamszpiro/home)
 * B.A. in Applied Mathematics & Statistics and Economics, [Macalester College](https://www.macalester.edu/), 2009-2013
 
 Skills
