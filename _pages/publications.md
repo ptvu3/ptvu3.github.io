@@ -34,7 +34,7 @@ Other applied work
 {: reversed="reversed"}  
 
 
-Non-Refereed Scholarly Publications
+Methodological work in spatial statistics
 ------
 0. <ins>**Vu PT**</ins>, Larson TV, & Szpiro AA (2020). Probabilistic Predictive Principal Component Analysis for Spatially Misaligned and High‐Dimensional Air Pollution Data with Missing Observations. ***Environmetrics***, 31(4), e2614. [\[link\]](https://pubmed.ncbi.nlm.nih.gov/32581624/)
 1. <ins>**Vu PT**</ins>, Szpiro AA, & Simon N (2020). Spatial Matrix Completion for Spatially-Misaligned and Multivariate Air Pollution Data. ***arXiv***:2004.05443 \[stat.AP\] [\[arXiv\]](https://arxiv.org/abs/2004.05443)
