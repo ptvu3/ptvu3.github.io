@@ -18,7 +18,7 @@ Skills
 ======
 * Technical skills:
   * Proficient in R and Python
-  * Familiar with SAS, Linux/Unix, ArcGIS, Git, REDCap and Medidata  
+  * Familiar with Java, SAS, Linux/Unix, Git, REDCap and Medidata  
 * Languages:
   * Native in Vietnamese
   * Fluent in English
