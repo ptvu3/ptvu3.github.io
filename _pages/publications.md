@@ -9,13 +9,13 @@ For the most updated list of publications, follow me on either [Google Scholar](
 
 Applied work in cystic fibrosis 
 ------
-0. Sathe M, Moshiree B, <ins>**Vu PT**</ins>, Khan U, Heltshe SL, Romasco M, Freedman SD, Schwarzenberg SJ, & Freeman JA (2021). Utilization of Electronic Patient-Reported Outcome Measures in Cystic Fibrosis Research: Application of the GALAXY Study. ***Journal of Cystic Fibrosis***, 20(4):605-611 [\[link\]](https://pubmed.ncbi.nlm.nih.gov/34305007/)
+0. Sathe M, Moshiree B, <ins>**Vu PT**</ins>, ..., & Freeman JA (2021). Utilization of Electronic Patient-Reported Outcome Measures in Cystic Fibrosis Research: Application of the GALAXY Study. ***Journal of Cystic Fibrosis***, 20(4):605-611 [\[link\]](https://pubmed.ncbi.nlm.nih.gov/34305007/)
 {: reversed="reversed"}
 
 
 Applied work in pediatric research
 ------
-0. German KR, <ins>**Vu PT**</ins>, Comstock BA, Ohls RK, Heagerty P, Mayock DE, Georgieff M, & Juul SE for the PENUT Consortium (2021). Enteral Iron Supplementation in Extremely Preterm Infants and Its Positive Correlation with Neurodevelopment; Post Hoc Analysis of the PENUT Randomized Controlled Trial. ***The Journal of Pediatrics***, 238:102-109.e8. [\[link\]](https://pubmed.ncbi.nlm.nih.gov/34324880/)
+0. German KR, <ins>**Vu PT**</ins>, Comstock BA, ..., & Juul SE for the PENUT Consortium (2021). Enteral Iron Supplementation in Extremely Preterm Infants and Its Positive Correlation with Neurodevelopment; Post Hoc Analysis of the PENUT Randomized Controlled Trial. ***The Journal of Pediatrics***, 238:102-109.e8. [\[link\]](https://pubmed.ncbi.nlm.nih.gov/34324880/)
 1. German KR, <ins>**Vu PT**</ins>, Neches S, and Juul SE (2021). Comparison of Markers of Iron Sufficiency Status and Neurodevelopmental Outcomes. ***Early Human Development***, 158, 105395. [\[link\]](https://pubmed.ncbi.nlm.nih.gov/34082259/)
 2. Wood TR, <ins>**Vu PT**</ins>, Comstock BA, Law JB, Mayock DE, Heagerty PJ, Burbacher T, Bammler TK, & Juul SE (2021). Cytokine and Chemokine Responses to Injury and Treatment in a Nonhuman Primate Model of Hypoxic-Ischemic Encephalopathy Treated with Hypothermia and Erythropoietin. ***Journal of Cerebral Blood Flow and Metabolism***, 41(8):2054-2066. [\[link\]](https://pubmed.ncbi.nlm.nih.gov/33554708/)
 3. <ins>**Vu PT**</ins>, Ohls RK, Mayock DE, German KR, Comstock BA, Heagerty PJ, & Juul SE, for the PENUT Consortium (2021). Transfusions and Neurodevelopmental Outcomes in Extremely Low Gestation Neonates Enrolled in the Preterm Erythropoietin Neuroprotection (PENUT) Trial. ***Pediatric Research***, 1-8. [\[link\]](https://pubmed.ncbi.nlm.nih.gov/33432157/)
@@ -37,6 +37,6 @@ Other applied work
 Methodological work in spatial statistics
 ------
 0. <ins>**Vu PT**</ins>, Larson TV, & Szpiro AA (2020). Probabilistic Predictive Principal Component Analysis for Spatially Misaligned and High‐Dimensional Air Pollution Data with Missing Observations. ***Environmetrics***, 31(4), e2614. [\[link\]](https://pubmed.ncbi.nlm.nih.gov/32581624/)
-1. <ins>**Vu PT**</ins>, Szpiro AA, & Simon N (2021). Spatial Matrix Completion for Spatially-Misaligned and Multivariate Air Pollution Data. ***Environmetrics***. [\[Epub ahead of print\]](https://onlinelibrary.wiley.com/doi/10.1002/env.2713) [\[older preprint on arXiv\]](https://arxiv.org/abs/2004.05443)
+1. <ins>**Vu PT**</ins>, Szpiro AA, & Simon N (2021). Spatial Matrix Completion for Spatially-Misaligned and Multivariate Air Pollution Data. ***Environmetrics***. [\[link\]](https://onlinelibrary.wiley.com/doi/10.1002/env.2713) 
 2. <ins>**Vu PT**</ins> (2019). Dimension Reduction for Spatially-Misaligned and Multi-Pollutant Data with Missing Observations. [\[doctoral dissertation\]](https://digital.lib.washington.edu/researchworks/handle/1773/45120)
 {: reversed="reversed"}  
