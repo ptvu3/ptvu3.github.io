@@ -9,7 +9,9 @@ For the most updated list of publications, follow me on either [Google Scholar](
 
 Applied work in cystic fibrosis 
 ------
-0. Sathe M, Moshiree B, <ins>**Vu PT**</ins>, ..., & Freeman JA (2021). Utilization of Electronic Patient-Reported Outcome Measures in Cystic Fibrosis Research: Application of the GALAXY Study. ***Journal of Cystic Fibrosis***, 20(4):605-611 [\[link\]](https://pubmed.ncbi.nlm.nih.gov/34305007/)
+0. Jain R, Magaret A, <ins>**Vu PT**</ins>, ..., & Taylor-Cousar JL (2022). Prospectively Evaluating Maternal and Fetal Outcomes in the Era of CFTR Modulators: the MAYFLOWERS Observational Clinical Trial Study Design. ***BMJ Open Respiratory Research***, 9(1), e001289. [\[link\]](https://pubmed.ncbi.nlm.nih.gov/35710144/)
+	
+1. Sathe M, Moshiree B, <ins>**Vu PT**</ins>, ..., & Freeman JA (2021). Utilization of Electronic Patient-Reported Outcome Measures in Cystic Fibrosis Research: Application of the GALAXY Study. ***Journal of Cystic Fibrosis***, 20(4):605-611 [\[link\]](https://pubmed.ncbi.nlm.nih.gov/34305007/)
 {: reversed="reversed"}
 
 
@@ -36,7 +38,7 @@ Other applied work
 
 Methodological work in spatial statistics
 ------
-0. <ins>**Vu PT**</ins>, Larson TV, & Szpiro AA (2020). Probabilistic Predictive Principal Component Analysis for Spatially Misaligned and High‐Dimensional Air Pollution Data with Missing Observations. ***Environmetrics***, 31(4), e2614. [\[link\]](https://pubmed.ncbi.nlm.nih.gov/32581624/)
-1. <ins>**Vu PT**</ins>, Szpiro AA, & Simon N (2021). Spatial Matrix Completion for Spatially-Misaligned and Multivariate Air Pollution Data. ***Environmetrics***. [\[link\]](https://onlinelibrary.wiley.com/doi/10.1002/env.2713) 
+0. <ins>**Vu PT**</ins>, Szpiro AA, & Simon N (2022). Spatial Matrix Completion for Spatially-Misaligned and Multivariate Air Pollution Data. ***Environmetrics***, 33(4), e2713. [\[link\]](https://onlinelibrary.wiley.com/doi/10.1002/env.2713) 
+1. <ins>**Vu PT**</ins>, Larson TV, & Szpiro AA (2020). Probabilistic Predictive Principal Component Analysis for Spatially Misaligned and High‐Dimensional Air Pollution Data with Missing Observations. ***Environmetrics***, 31(4), e2614. [\[link\]](https://pubmed.ncbi.nlm.nih.gov/32581624/)
 2. <ins>**Vu PT**</ins> (2019). Dimension Reduction for Spatially-Misaligned and Multi-Pollutant Data with Missing Observations. [\[doctoral dissertation\]](https://digital.lib.washington.edu/researchworks/handle/1773/45120)
 {: reversed="reversed"}  
