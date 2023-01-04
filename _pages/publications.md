@@ -9,13 +9,17 @@ For the most updated list of publications, follow me on either [Google Scholar](
 
 Applied work in cystic fibrosis 
 ------
-0. Jain R, Magaret A, <ins>**Vu PT**</ins>, ..., & Taylor-Cousar JL (2022). Prospectively Evaluating Maternal and Fetal Outcomes in the Era of CFTR Modulators: the MAYFLOWERS Observational Clinical Trial Study Design. ***BMJ Open Respiratory Research***, 9(1), e001289. [\[link\]](https://pubmed.ncbi.nlm.nih.gov/35710144/)
+0.  Moshiree B, Freeman AJ, <ins>**Vu PT**</ins>, ..., & Sathe M (2022). Multi-center Prospective Study of Gastrointestinal Symptom Prevalence and Severity in Cystic Fibrosis: The GALAXY Results. ***Journal of Cystic Fibrosis***. [\[In Press\]](https://doi.org/10.1016/j.jcf.2022.10.006)
+
+1.  Schwarzenberg SJ, <ins>**Vu PT**</ins>, Skalland M, ..., & Freedman S for the PROMISE Study Group (2022). Elexacaftor/Tezacaftor/Ivacaftor and Gastrointestinal Outcomes in Cystic Fibrosis: Report of PROMISE-GI. ***Journal of Cystic Fibrosis***. [\[In Press\]](https://doi.org/10.1016/j.jcf.2022.10.003)
+
+2. Jain R, Magaret A, <ins>**Vu PT**</ins>, ..., & Taylor-Cousar JL (2022). Prospectively Evaluating Maternal and Fetal Outcomes in the Era of CFTR Modulators: the MAYFLOWERS Observational Clinical Trial Study Design. ***BMJ Open Respiratory Research***, 9(1), e001289. [\[link\]](https://pubmed.ncbi.nlm.nih.gov/35710144/)
 	
-1. Sathe M, Moshiree B, <ins>**Vu PT**</ins>, ..., & Freeman JA (2021). Utilization of Electronic Patient-Reported Outcome Measures in Cystic Fibrosis Research: Application of the GALAXY Study. ***Journal of Cystic Fibrosis***, 20(4):605-611 [\[link\]](https://pubmed.ncbi.nlm.nih.gov/34305007/)
+3. Sathe M, Moshiree B, <ins>**Vu PT**</ins>, ..., & Freeman JA (2021). Utilization of Electronic Patient-Reported Outcome Measures in Cystic Fibrosis Research: Application of the GALAXY Study. ***Journal of Cystic Fibrosis***, 20(4):605-611 [\[link\]](https://pubmed.ncbi.nlm.nih.gov/34305007/)
 {: reversed="reversed"}
 
 
-Applied work in pediatric research
+Applied work in pediatric and neonatal research
 ------
 0. German KR, <ins>**Vu PT**</ins>, Comstock BA, ..., & Juul SE for the PENUT Consortium (2021). Enteral Iron Supplementation in Extremely Preterm Infants and Its Positive Correlation with Neurodevelopment; Post Hoc Analysis of the PENUT Randomized Controlled Trial. ***The Journal of Pediatrics***, 238:102-109.e8. [\[link\]](https://pubmed.ncbi.nlm.nih.gov/34324880/)
 1. German KR, <ins>**Vu PT**</ins>, Neches S, and Juul SE (2021). Comparison of Markers of Iron Sufficiency Status and Neurodevelopmental Outcomes. ***Early Human Development***, 158, 105395. [\[link\]](https://pubmed.ncbi.nlm.nih.gov/34082259/)
